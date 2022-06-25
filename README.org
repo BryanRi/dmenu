@@ -1,0 +1,17 @@
+* Dmenu 5.1
+This is my minimally patched build for dmenu.
+* Patches
+This build has been patched with:
+** Gruvbox theme
+Personal theme inspired by gruvbox.
+** Password
+The -P flag will hide the input.
+* Installation
+To install this build of dmenu first clone this repo:
+#+BEGIN_SRC 
+git clone https://github.com/BryanRi/dmenu.git
+#+END_SRC
+Then install it:
+#+BEGIN_SRC 
+$ sudo make clean install
+#+END_SRC

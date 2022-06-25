@@ -2,9 +2,9 @@
 This is my minimally patched build for dmenu.
 * Patches
 This build has been patched with:
-** Gruvbox theme
+- Gruvbox theme
 Personal theme inspired by gruvbox.
-** Password
+- Password
 The -P flag will hide the input.
 * Installation
 To install this build of dmenu first clone this repo:

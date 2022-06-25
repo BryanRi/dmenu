@@ -1,5 +1,5 @@
 * Dmenu 5.1
-This is my minimally patched build for dmenu.
+This is my minimally patched build for dmenu. All applied patches can be found in the /patches/ directory.
 * Patches
 This build has been patched with:
 - Gruvbox theme --- personal theme inspired by gruvbox.
